@@ -45,7 +45,7 @@ El objetivo es ofrecer un entorno de aprendizaje práctico para la creación de 
 
 1. Clonar el repositorio:  
    ```bash
-   git clone https://github.com/<usuario>/<repositorio>.git
+   git clone [https://github.com/UPNAdrone/TwIN_Unreal_Cesium.git](https://github.com/UPNAdrone/TwIN_Unreal_Cesium.git)
 2. Abrir el proyecto en Unreal Engine 5.
 3. Cargar el nivel de ejemplo con Cesium.
 4. Ejecutar la aplicación para visualizar los datos en tiempo real.
